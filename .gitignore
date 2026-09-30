@@ -1,0 +1,31 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node (na wypadek narzędzi)
+node_modules/
+
+# Materiały wewnętrzne (brief klienta, notatki) — nie publikujemy w publicznym repo
+data.md
+CLAUDE.md
+.claude/
